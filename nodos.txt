@@ -1,0 +1,1346 @@
+
+ Node Directory
+
+ Number of entries in the directory = 149
+
+Node 1 entry:
+
+ Node name                      = ACBGARSG
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_badg
+ Service name                   = 60330
+
+Node 2 entry:
+
+ Node name                      = ACBGBAD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_badg
+ Service name                   = 60320
+
+Node 3 entry:
+
+ Node name                      = ACBGPORT
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_badg
+ Service name                   = 60300
+
+Node 4 entry:
+
+ Node name                      = ACHAB2B
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_ha
+ Service name                   = 60012
+
+Node 5 entry:
+
+ Node name                      = ACHANST1
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_ha
+ Service name                   = 50000
+
+Node 6 entry:
+
+ Node name                      = ACHATLMU
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_ha
+ Service name                   = 60022
+
+Node 7 entry:
+
+ Node name                      = ACHATLPV
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_ha
+ Service name                   = 50120
+
+Node 8 entry:
+
+ Node name                      = ACHAWEBP
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_ha
+ Service name                   = 60600
+
+Node 9 entry:
+
+ Node name                      = ACHAWEBS
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_ha
+ Service name                   = 60502
+
+Node 10 entry:
+
+ Node name                      = ACMBLMBL
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_mbal
+ Service name                   = 50030
+
+Node 11 entry:
+
+ Node name                      = ACSBTLSB
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ac_db2_tlsb
+ Service name                   = 50300
+
+Node 12 entry:
+
+ Node name                      = AD03ARNC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 50700
+
+Node 13 entry:
+
+ Node name                      = AD03CACM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60800
+
+Node 14 entry:
+
+ Node name                      = AD03CACR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60200
+
+Node 15 entry:
+
+ Node name                      = AD03CAHI
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60700
+
+Node 16 entry:
+
+ Node name                      = AD03CAIM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60100
+
+Node 17 entry:
+
+ Node name                      = AD03CARE
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60550
+
+Node 18 entry:
+
+ Node name                      = AD03CRMT
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60400
+
+Node 19 entry:
+
+ Node name                      = AD03DSIM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60105
+
+Node 20 entry:
+
+ Node name                      = AD03DSIS
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60108
+
+Node 21 entry:
+
+ Node name                      = AD03EXTR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60310
+
+Node 22 entry:
+
+ Node name                      = AD03GIS1
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60005
+
+Node 23 entry:
+
+ Node name                      = AD03INS2
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60010
+
+Node 24 entry:
+
+ Node name                      = AD03NACA
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 60020
+
+Node 25 entry:
+
+ Node name                      = AD03SGSD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 50100
+
+Node 26 entry:
+
+ Node name                      = AD03VALR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad003
+ Service name                   = 50200
+
+Node 27 entry:
+
+ Node name                      = ADBGARSG
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_badg
+ Service name                   = 60330
+
+Node 28 entry:
+
+ Node name                      = ADBGBAD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_badg
+ Service name                   = 60320
+
+Node 29 entry:
+
+ Node name                      = ADBGPORT
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_badg
+ Service name                   = 60300
+
+Node 30 entry:
+
+ Node name                      = ADBIIEPM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_btiv
+ Service name                   = 60390
+
+Node 31 entry:
+
+ Node name                      = ADBIINVT
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_btiv
+ Service name                   = 60370
+
+Node 32 entry:
+
+ Node name                      = ADBIMDIS
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_btiv
+ Service name                   = 60360
+
+Node 33 entry:
+
+ Node name                      = ADBITRC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_btiv
+ Service name                   = 60350
+
+Node 34 entry:
+
+ Node name                      = ADHAB2B
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_ha
+ Service name                   = 60012
+
+Node 35 entry:
+
+ Node name                      = ADHANST1
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_ha
+ Service name                   = 50000
+
+Node 36 entry:
+
+ Node name                      = ADHATLMU
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_ha
+ Service name                   = 60022
+
+Node 37 entry:
+
+ Node name                      = ADHATLPV
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_ha
+ Service name                   = 50019
+
+Node 38 entry:
+
+ Node name                      = ADHAWEBP
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_ha
+ Service name                   = 60600
+
+Node 39 entry:
+
+ Node name                      = ADHAWEBS
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_ha
+ Service name                   = 60500
+
+Node 40 entry:
+
+ Node name                      = ADLALATA
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = adlat101
+ Service name                   = 50013
+
+Node 41 entry:
+
+ Node name                      = ADMBMBL
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_mbal
+ Service name                   = 50030
+
+Node 42 entry:
+
+ Node name                      = ADNANACA
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = adnac001
+ Service name                   = 60020
+
+Node 43 entry:
+
+ Node name                      = ADSBTLSB
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ad_db2_tlsb
+ Service name                   = 50300
+
+Node 44 entry:
+
+ Node name                      = AI01GIS1
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = aihac101
+ Service name                   = 60005
+
+Node 45 entry:
+
+ Node name                      = AI01INS2
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = aihac101
+ Service name                   = 60010
+
+Node 46 entry:
+
+ Node name                      = AI04CACM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 60800
+
+Node 47 entry:
+
+ Node name                      = AI04CACR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 60200
+
+Node 48 entry:
+
+ Node name                      = AI04CAHI
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 60700
+
+Node 49 entry:
+
+ Node name                      = AI04CAIM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 60100
+
+Node 50 entry:
+
+ Node name                      = AI04CARE
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 60550
+
+Node 51 entry:
+
+ Node name                      = AI04CRMT
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 60400
+
+Node 52 entry:
+
+ Node name                      = AI04DSIM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 60105
+
+Node 53 entry:
+
+ Node name                      = AI04DSIS
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 60108
+
+Node 54 entry:
+
+ Node name                      = AI04EXTR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 60310
+
+Node 55 entry:
+
+ Node name                      = AI04SGES
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 50100
+
+Node 56 entry:
+
+ Node name                      = AI04VALR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai004
+ Service name                   = 50200
+
+Node 57 entry:
+
+ Node name                      = AIBGARSG
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_badg
+ Service name                   = 60330
+
+Node 58 entry:
+
+ Node name                      = AIBGBAD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_badg
+ Service name                   = 60320
+
+Node 59 entry:
+
+ Node name                      = AIBGPORT
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_badg
+ Service name                   = 60300
+
+Node 60 entry:
+
+ Node name                      = AIHAB2B
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_ha
+ Service name                   = 60012
+
+Node 61 entry:
+
+ Node name                      = AIHALATA
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_ha
+ Service name                   = 50013
+
+Node 62 entry:
+
+ Node name                      = AIHANST1
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_ha
+ Service name                   = 50000
+
+Node 63 entry:
+
+ Node name                      = AIHATLMU
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_ha
+ Service name                   = 60022
+
+Node 64 entry:
+
+ Node name                      = AIHATLPV
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_ha
+ Service name                   = 50120
+
+Node 65 entry:
+
+ Node name                      = AIHAWEBP
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_ha
+ Service name                   = 60600
+
+Node 66 entry:
+
+ Node name                      = AIHAWEBS
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_ha
+ Service name                   = 60502
+
+Node 67 entry:
+
+ Node name                      = AIMBMBAL
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_mbal
+ Service name                   = 50030
+
+Node 68 entry:
+
+ Node name                      = AIQEQEST
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_qest
+ Service name                   = 50450
+
+Node 69 entry:
+
+ Node name                      = AISBTLSB
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ai_db2_tlsb
+ Service name                   = 50300
+
+Node 70 entry:
+
+ Node name                      = AP04GIS1
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap004
+ Service name                   = 60005
+
+Node 71 entry:
+
+ Node name                      = AP04INS2
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap004
+ Service name                   = 60010
+
+Node 72 entry:
+
+ Node name                      = AP04QEST
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap004
+ Service name                   = 50450
+
+Node 73 entry:
+
+ Node name                      = APBGARSG
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_badg
+ Service name                   = 60330
+
+Node 74 entry:
+
+ Node name                      = APBGBAD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_badg
+ Service name                   = 60320
+
+Node 75 entry:
+
+ Node name                      = APBGPORT
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_badg
+ Service name                   = 60300
+
+Node 76 entry:
+
+ Node name                      = APCACACM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apcar001
+ Service name                   = 60800
+
+Node 77 entry:
+
+ Node name                      = APCACACR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apcar001
+ Service name                   = 60200
+
+Node 78 entry:
+
+ Node name                      = APCACAHI
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apcar001
+ Service name                   = 60700
+
+Node 79 entry:
+
+ Node name                      = APCACAIM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apcar001
+ Service name                   = 60100
+
+Node 80 entry:
+
+ Node name                      = APCACARE
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apcar001
+ Service name                   = 60550
+
+Node 81 entry:
+
+ Node name                      = APCACRMT
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apcar001
+ Service name                   = 60400
+
+Node 82 entry:
+
+ Node name                      = APCAEXTR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apcar001
+ Service name                   = 60310
+
+Node 83 entry:
+
+ Node name                      = APCASGSD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apcar001
+ Service name                   = 50100
+
+Node 84 entry:
+
+ Node name                      = APCAVALR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apcar001
+ Service name                   = 50200
+
+Node 85 entry:
+
+ Node name                      = APDMMBES
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apdbm002_ha
+ Service name                   = 50415
+
+Node 86 entry:
+
+ Node name                      = APDMMBGE
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apdbm002_ha
+ Service name                   = 50420
+
+Node 87 entry:
+
+ Node name                      = APDMMBL
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_mbal
+ Service name                   = 50030
+
+Node 88 entry:
+
+ Node name                      = APHAB2B
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_ha
+ Service name                   = 60012
+
+Node 89 entry:
+
+ Node name                      = APHANST1
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_ha
+ Service name                   = 50000
+
+Node 90 entry:
+
+ Node name                      = APHATLMU
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_ha
+ Service name                   = 60022
+
+Node 91 entry:
+
+ Node name                      = APHATLPV
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_ha
+ Service name                   = 50020
+
+Node 92 entry:
+
+ Node name                      = APHAWEBP
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_ha
+ Service name                   = 60600
+
+Node 93 entry:
+
+ Node name                      = APHAWEBS
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_ha
+ Service name                   = 60500
+
+Node 94 entry:
+
+ Node name                      = APSADSIM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apsas101
+ Service name                   = 60105
+
+Node 95 entry:
+
+ Node name                      = APSADSIS
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = apsas101
+ Service name                   = 60108
+
+Node 96 entry:
+
+ Node name                      = APSBTLSB
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = ap_db2_tlsb
+ Service name                   = 50300
+
+Node 97 entry:
+
+ Node name                      = SANABNAC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sa_db2_bnac
+ Service name                   = 50900
+
+Node 98 entry:
+
+ Node name                      = SANTINTR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sa_db2_intr
+ Service name                   = 60040
+
+Node 99 entry:
+
+ Node name                      = SANTNST7
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sa_db2_intr
+ Service name                   = 50010
+
+Node 100 entry:
+
+ Node name                      = SCNAABAD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sc_db2_bnac
+ Service name                   = 50850
+
+Node 101 entry:
+
+ Node name                      = SCNAARNC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sc_db2_bnac
+ Service name                   = 50700
+
+Node 102 entry:
+
+ Node name                      = SCNABNAC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sc_db2_bnac
+ Service name                   = 50900
+
+Node 103 entry:
+
+ Node name                      = SCNTINTR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sc_db2_intr
+ Service name                   = 60040
+
+Node 104 entry:
+
+ Node name                      = SCNTNST7
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sc_db2_intr
+ Service name                   = 50010
+
+Node 105 entry:
+
+ Node name                      = SDDBCOBR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sddbs101
+ Service name                   = 60380
+
+Node 106 entry:
+
+ Node name                      = SDMQMQAP
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_mqap
+ Service name                   = 60850
+
+Node 107 entry:
+
+ Node name                      = SDNAABAD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_bnac
+ Service name                   = 50850
+
+Node 108 entry:
+
+ Node name                      = SDNAARNA
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_bnac
+ Service name                   = 50700
+
+Node 109 entry:
+
+ Node name                      = SDNAARNC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_bnac
+ Service name                   = 50700
+
+Node 110 entry:
+
+ Node name                      = SDNAATIC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_bnac
+ Service name                   = 60060
+
+Node 111 entry:
+
+ Node name                      = SDNABNAC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_bnac
+ Service name                   = 50900
+
+Node 112 entry:
+
+ Node name                      = SDNTDEFC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_intr
+ Service name                   = 60050
+
+Node 113 entry:
+
+ Node name                      = SDNTINTR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_intr
+ Service name                   = 60040
+
+Node 114 entry:
+
+ Node name                      = SDNTNST7
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_intr
+ Service name                   = 50010
+
+Node 115 entry:
+
+ Node name                      = SDNTSATM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_intr
+ Service name                   = 60145
+
+Node 116 entry:
+
+ Node name                      = SDNTSMTM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_intr
+ Service name                   = 60045
+
+Node 117 entry:
+
+ Node name                      = SDROPRTO
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_prto
+ Service name                   = 50725
+
+Node 118 entry:
+
+ Node name                      = SDUNUNIC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sd_db2_unic
+ Service name                   = 50400
+
+Node 119 entry:
+
+ Node name                      = SFMBLMBL
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sf_db2_mbal
+ Service name                   = 50030
+
+Node 120 entry:
+
+ Node name                      = SFNAARNC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sf_db2_bnac
+ Service name                   = 50700
+
+Node 121 entry:
+
+ Node name                      = SFNABNAC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sf_db2_bnac
+ Service name                   = 50900
+
+Node 122 entry:
+
+ Node name                      = SGNAARNC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sg_db2_bnac
+ Service name                   = 50700
+
+Node 123 entry:
+
+ Node name                      = SIGDABAD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sigdb101
+ Service name                   = 50850
+
+Node 124 entry:
+
+ Node name                      = SIGDARSG
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sigdb101
+ Service name                   = 60330
+
+Node 125 entry:
+
+ Node name                      = SIGDBAD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sigdb101
+ Service name                   = 60320
+
+Node 126 entry:
+
+ Node name                      = SIGDNST1
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sigdb101
+ Service name                   = 50000
+
+Node 127 entry:
+
+ Node name                      = SIGDTLSB
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sigdb101
+ Service name                   = 50300
+
+Node 128 entry:
+
+ Node name                      = SIMQMQAP
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = si_db2_mqap
+ Service name                   = 60850
+
+Node 129 entry:
+
+ Node name                      = SINAABAD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = si_db2_bnac
+ Service name                   = 50850
+
+Node 130 entry:
+
+ Node name                      = SINABNAC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = si_db2_bnac
+ Service name                   = 50900
+
+Node 131 entry:
+
+ Node name                      = SINTDEFC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = si_db2_intr
+ Service name                   = 60050
+
+Node 132 entry:
+
+ Node name                      = SINTINTR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = si_db2_intr
+ Service name                   = 60040
+
+Node 133 entry:
+
+ Node name                      = SINTNST7
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = si_db2_intr
+ Service name                   = 50010
+
+Node 134 entry:
+
+ Node name                      = SINTSATM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = si_db2_intr
+ Service name                   = 60145
+
+Node 135 entry:
+
+ Node name                      = SINTSMTM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = si_db2_intr
+ Service name                   = 60045
+
+Node 136 entry:
+
+ Node name                      = SIROPRTO
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = si_db2_prto
+ Service name                   = 50725
+
+Node 137 entry:
+
+ Node name                      = SIUNUNIC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = si_db2_unic
+ Service name                   = 50400
+
+Node 138 entry:
+
+ Node name                      = SPMQMQAP
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sp_db2_mqap
+ Service name                   = 60850
+
+Node 139 entry:
+
+ Node name                      = SPNAABAD
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sp_db2_bnac
+ Service name                   = 50900
+
+Node 140 entry:
+
+ Node name                      = SPNABNAC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sp_db2_bnac
+ Service name                   = 50850
+
+Node 141 entry:
+
+ Node name                      = SPNTDEFC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sp_db2_intr
+ Service name                   = 60050
+
+Node 142 entry:
+
+ Node name                      = SPNTINTR
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sp_db2_intr
+ Service name                   = 60040
+
+Node 143 entry:
+
+ Node name                      = SPNTNST7
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sp_db2_intr
+ Service name                   = 50010
+
+Node 144 entry:
+
+ Node name                      = SPNTSMTM
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sp_db2_intr
+ Service name                   = 60045
+
+Node 145 entry:
+
+ Node name                      = SPROPRTO
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = sp_db2_prto
+ Service name                   = 50725
+
+Node 146 entry:
+
+ Node name                      = SPUNUNIC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = spuni101
+ Service name                   = 50400
+
+Node 147 entry:
+
+ Node name                      = TR05INVT
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = trc00405
+ Service name                   = 60370
+
+Node 148 entry:
+
+ Node name                      = TR05MDIS
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = trc00405
+ Service name                   = 60360
+
+Node 149 entry:
+
+ Node name                      = TR05TRC
+ Comment                        =
+ Directory entry type           = LOCAL
+ Protocol                       = TCPIP
+ Hostname                       = trc00405
+ Service name                   = 60350
+

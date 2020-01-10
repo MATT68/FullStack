@@ -1,0 +1,4049 @@
+
+ System Database Directory
+
+ Number of entries in the directory = 337
+
+Database 1 entry:
+
+ Database alias                       = PR_OOIR
+ Database name                        = BOOIR001
+ Node name                            = SPNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 2 entry:
+
+ Database alias                       = PR_MD2
+ Database name                        = BMD2001
+ Node name                            = TR05MDIS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 3 entry:
+
+ Database alias                       = QA_TLWR
+ Database name                        = BTLWR001
+ Node name                            = ACHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 4 entry:
+
+ Database alias                       = DE_DXBI
+ Database name                        = BDXBI001
+ Node name                            = AD03EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 5 entry:
+
+ Database alias                       = AU_IIAG
+ Database name                        = BIIAG001
+ Node name                            = SANTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 6 entry:
+
+ Database alias                       = AU_IIGA
+ Database name                        = BIIGA001
+ Node name                            = SANTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 7 entry:
+
+ Database alias                       = PR_NTER
+ Database name                        = BNTER001
+ Node name                            = APCASGSD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 8 entry:
+
+ Database alias                       = PR_TLGR
+ Database name                        = BTLGR001
+ Node name                            = SPNAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 9 entry:
+
+ Database alias                       = DE_FSIF
+ Database name                        = BFSIF001
+ Node name                            = AD03INS2
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 10 entry:
+
+ Database alias                       = DE_DXCI
+ Database name                        = BDXCI001
+ Node name                            = AD03EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 11 entry:
+
+ Database alias                       = EI_DXBE
+ Database name                        = BDXBE001
+ Node name                            = AI04EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 12 entry:
+
+ Database alias                       = EI_TLWW
+ Database name                        = BTLWW001
+ Node name                            = AIHAWEBS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 13 entry:
+
+ Database alias                       = EI_GEVA
+ Database name                        = BGEVA001
+ Node name                            = AI04VALR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 14 entry:
+
+ Database alias                       = QA_TLPZ
+ Database name                        = BTLPZ001
+ Node name                            = ACBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 15 entry:
+
+ Database alias                       = PR_TLBX
+ Database name                        = BTLBX001
+ Node name                            = APHAB2B
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 16 entry:
+
+ Database alias                       = PR_ORJO
+ Database name                        = BORJO001
+ Node name                            = SPROPRTO
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 17 entry:
+
+ Database alias                       = PR_KNTN
+ Database name                        = BKNTN001
+ Node name                            = SPNTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 18 entry:
+
+ Database alias                       = PR_CECE
+ Database name                        = BCECE001
+ Node name                            = APCACACR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 19 entry:
+
+ Database alias                       = PR_SMVE
+ Database name                        = BSMVE001
+ Node name                            = APBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 20 entry:
+
+ Database alias                       = FO_CGDO
+ Database name                        = BCGDO001
+ Node name                            = SFNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 21 entry:
+
+ Database alias                       = PR_TLFU
+ Database name                        = BTLFU001
+ Node name                            = APHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 22 entry:
+
+ Database alias                       = DE_TLBH
+ Database name                        = BTLBH001
+ Node name                            = ADSBTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 23 entry:
+
+ Database alias                       = QA_SALA
+ Database name                        = BSALA001
+ Node name                            = SCNTNST7
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 24 entry:
+
+ Database alias                       = DE_REDO
+ Database name                        = BREDO001
+ Node name                            = AD03CARE
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 25 entry:
+
+ Database alias                       = EI_TLAD
+ Database name                        = BTLAD001
+ Node name                            = AIHAWEBS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 26 entry:
+
+ Database alias                       = AU_CGDO
+ Database name                        = BCGDO001
+ Node name                            = SANABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 27 entry:
+
+ Database alias                       = PR_ACMA
+ Database name                        = BACMA001
+ Node name                            = SPUNUNIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 28 entry:
+
+ Database alias                       = PR_CQSV
+ Database name                        = BCQSV001
+ Node name                            = SPNTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 29 entry:
+
+ Database alias                       = PR_TLEX
+ Database name                        = BTLEX001
+ Node name                            = APBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 30 entry:
+
+ Database alias                       = PR_TLNO
+ Database name                        = BTLNO001
+ Node name                            = APHANST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 31 entry:
+
+ Database alias                       = DE_PLAN
+ Database name                        = BPLANNER
+ Node name                            = ADBIMDIS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 32 entry:
+
+ Database alias                       = IP_ATAE
+ Database name                        = BATAE001
+ Node name                            = SIGDARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 33 entry:
+
+ Database alias                       = EI_CAIG2
+ Database name                        = BCAIG001
+ Node name                            = AI04CRMT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 34 entry:
+
+ Database alias                       = EI_QPAD
+ Database name                        = BQPAD001
+ Node name                            = AIQEQEST
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 35 entry:
+
+ Database alias                       = EI_TLEA
+ Database name                        = BTLEA001
+ Node name                            = AIBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 36 entry:
+
+ Database alias                       = EI_BRKG
+ Database name                        = BBRKR0G1
+ Node name                            = AIMBMBAL
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 37 entry:
+
+ Database alias                       = EI_IIGM
+ Database name                        = BIIGM001
+ Node name                            = SINTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 38 entry:
+
+ Database alias                       = DE_PCRF
+ Database name                        = BPCRF001
+ Node name                            = AD03SGSD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 39 entry:
+
+ Database alias                       = PR_KNTP
+ Database name                        = BKNTP001
+ Node name                            = SPNTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 40 entry:
+
+ Database alias                       = DE_TLGE
+ Database name                        = BTLGE001
+ Node name                            = SDNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 41 entry:
+
+ Database alias                       = QA_TLWW
+ Database name                        = BTLWW001
+ Node name                            = ACHAWEBS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 42 entry:
+
+ Database alias                       = DE_ATAD2
+ Database name                        = BATAD002
+ Node name                            = ADNANACA
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 43 entry:
+
+ Database alias                       = EI_DXBI
+ Database name                        = BDXBI001
+ Node name                            = AI04EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 44 entry:
+
+ Database alias                       = PR_GTG1
+ Database name                        = BGTGI001
+ Node name                            = AP04INS2
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 45 entry:
+
+ Database alias                       = DE_FENT
+ Database name                        = BFENT
+ Node name                            = ADBIIEPM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 46 entry:
+
+ Database alias                       = PR_DXSP
+ Database name                        = BDXSP001
+ Node name                            = APCAEXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 47 entry:
+
+ Database alias                       = PR_CAIG
+ Database name                        = BCAIG001
+ Node name                            = APCACAIM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 48 entry:
+
+ Database alias                       = PR_GTG2
+ Database name                        = BGTGI002
+ Node name                            = AP04INS2
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 49 entry:
+
+ Database alias                       = EI_FSIF
+ Database name                        = BFSIF001
+ Node name                            = AI01INS2
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 50 entry:
+
+ Database alias                       = EI_DXCI
+ Database name                        = BDXCI001
+ Node name                            = AI04EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 51 entry:
+
+ Database alias                       = DE_DXCN
+ Database name                        = BDXCN001
+ Node name                            = AD03EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 52 entry:
+
+ Database alias                       = PR_CAHI
+ Database name                        = BCAHI001
+ Node name                            = APCACAHI
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 53 entry:
+
+ Database alias                       = PR_BRK6
+ Database name                        = BBRK6001
+ Node name                            = APDMMBL
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 54 entry:
+
+ Database alias                       = DE_DXCO
+ Database name                        = BDXCO001
+ Node name                            = AD03EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 55 entry:
+
+ Database alias                       = AU_SALA
+ Database name                        = BSALA001
+ Node name                            = SANTNST7
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 56 entry:
+
+ Database alias                       = DE_GIS
+ Database name                        = BGIS001
+ Node name                            = AD03GIS1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 57 entry:
+
+ Database alias                       = QA_TLAD
+ Database name                        = BTLAD001
+ Node name                            = ACHAWEBS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 58 entry:
+
+ Database alias                       = QA_TLEA
+ Database name                        = BTLEA001
+ Node name                            = ACBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 59 entry:
+
+ Database alias                       = QA_IIGM
+ Database name                        = BIIGM001
+ Node name                            = SCNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 60 entry:
+
+ Database alias                       = DE_CCM1
+ Database name                        = BCCM001
+ Node name                            = ADBIMDIS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 61 entry:
+
+ Database alias                       = EI_REDO
+ Database name                        = BREDO001
+ Node name                            = AI04CARE
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 62 entry:
+
+ Database alias                       = EI_TLBH
+ Database name                        = BTLBH001
+ Node name                            = AISBTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 63 entry:
+
+ Database alias                       = DE_IIGV
+ Database name                        = BIIGV001
+ Node name                            = SDNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 64 entry:
+
+ Database alias                       = PR_TLWJ
+ Database name                        = BTLWJ001
+ Node name                            = APBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 65 entry:
+
+ Database alias                       = PR_SMTM
+ Database name                        = BSMTM001
+ Node name                            = SPNTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 66 entry:
+
+ Database alias                       = DE_ESRE
+ Database name                        = BESREPOR
+ Node name                            = ADBIIEPM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 67 entry:
+
+ Database alias                       = DE_QPEJ
+ Database name                        = BQPEJ001
+ Node name                            = SDNAARNC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 68 entry:
+
+ Database alias                       = EI_PCRF
+ Database name                        = BPCRF001
+ Node name                            = AI04SGES
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 69 entry:
+
+ Database alias                       = DE_CNPO
+ Database name                        = BCNPO001
+ Node name                            = ADBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 70 entry:
+
+ Database alias                       = PR_TLMU
+ Database name                        = BTLMU001
+ Node name                            = APHATLMU
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 71 entry:
+
+ Database alias                       = DE_TLCLL
+ Database name                        = BTLCLME1
+ Node name                            = ADLALATA
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 72 entry:
+
+ Database alias                       = PR_APDC
+ Database name                        = BAPDC001
+ Node name                            = SPNTDEFC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 73 entry:
+
+ Database alias                       = PR_TLPS
+ Database name                        = BTLPS001
+ Node name                            = APBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 74 entry:
+
+ Database alias                       = EI_TLGE
+ Database name                        = BTLGE001
+ Node name                            = SINAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 75 entry:
+
+ Database alias                       = PR_TLSP
+ Database name                        = BTLSP001
+ Node name                            = APBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 76 entry:
+
+ Database alias                       = DE_BRKR
+ Database name                        = BBRKR001
+ Node name                            = ADMBMBL
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 77 entry:
+
+ Database alias                       = DE_DXSC
+ Database name                        = BDXSC001
+ Node name                            = AD03EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 78 entry:
+
+ Database alias                       = EI_DXCN
+ Database name                        = BDXCN001
+ Node name                            = AI04EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 79 entry:
+
+ Database alias                       = DE_SLAR
+ Database name                        = BSLAR001
+ Node name                            = ADBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 80 entry:
+
+ Database alias                       = DE_SHIN
+ Database name                        = BSHIN001
+ Node name                            = AD03DSIS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 81 entry:
+
+ Database alias                       = EI_DXCO
+ Database name                        = BDXCO001
+ Node name                            = AI04EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 82 entry:
+
+ Database alias                       = EI_KUHF
+ Database name                        = BKUHF001
+ Node name                            = SINTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 83 entry:
+
+ Database alias                       = AU_IIGM
+ Database name                        = BIIGM001
+ Node name                            = SANTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 84 entry:
+
+ Database alias                       = DE_TLNE
+ Database name                        = BTLNE001
+ Node name                            = ADHANST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 85 entry:
+
+ Database alias                       = PR_IIGA
+ Database name                        = BIIGA001
+ Node name                            = SPNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 86 entry:
+
+ Database alias                       = PR_IIAG
+ Database name                        = BIIAG001
+ Node name                            = SPNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 87 entry:
+
+ Database alias                       = QA_TLBH
+ Database name                        = BTLBH001
+ Node name                            = ACSBTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 88 entry:
+
+ Database alias                       = TS_TEST
+ Database name                        = BACSG001
+ Node name                            = SPUNUNIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 89 entry:
+
+ Database alias                       = DE_TLFN
+ Database name                        = BTLFN001
+ Node name                            = SDNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 90 entry:
+
+ Database alias                       = PR_TLPV
+ Database name                        = BTLPV001
+ Node name                            = APHATLPV
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 91 entry:
+
+ Database alias                       = PR_ATAE
+ Database name                        = BATAE001
+ Node name                            = APBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 92 entry:
+
+ Database alias                       = DE_TLBR
+ Database name                        = BTLBR001
+ Node name                            = ADHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 93 entry:
+
+ Database alias                       = EI_IIGV
+ Database name                        = BIIGV001
+ Node name                            = SINTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 94 entry:
+
+ Database alias                       = DE_TLAS
+ Database name                        = BTLAS001
+ Node name                            = ADBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 95 entry:
+
+ Database alias                       = DE_CACB
+ Database name                        = BCACB001
+ Node name                            = AD03CACM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 96 entry:
+
+ Database alias                       = DE_KUHL
+ Database name                        = BKUHL001
+ Node name                            = SDNTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 97 entry:
+
+ Database alias                       = DE_TLNEL
+ Database name                        = BTLNEME1
+ Node name                            = ADLALATA
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 98 entry:
+
+ Database alias                       = DE_TRC
+ Database name                        = BTRC001
+ Node name                            = ADBITRC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 99 entry:
+
+ Database alias                       = PDE_QPEJ
+ Database name                        = BQPEJ001
+ Node name                            = AD03ARNC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 100 entry:
+
+ Database alias                       = QA_BRKRF
+ Database name                        = BBRKRF01
+ Node name                            = ACMBLMBL
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 101 entry:
+
+ Database alias                       = PR_BESB
+ Database name                        = BBESB001
+ Node name                            = APDMMBES
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 102 entry:
+
+ Database alias                       = EI_CNPO
+ Database name                        = BCNPO001
+ Node name                            = AIBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 103 entry:
+
+ Database alias                       = EI_TLCLL
+ Database name                        = BTLCLME1
+ Node name                            = AIHALATA
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 104 entry:
+
+ Database alias                       = DE_TLSB
+ Database name                        = BTLSB001
+ Node name                            = ADSBTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 105 entry:
+
+ Database alias                       = DE_DXCV
+ Database name                        = BDXCV001
+ Node name                            = AD03EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 106 entry:
+
+ Database alias                       = QA_TLGE
+ Database name                        = BTLGE001
+ Node name                            = SCNAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 107 entry:
+
+ Database alias                       = PR_CGDO
+ Database name                        = BCGDO001
+ Node name                            = SPNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 108 entry:
+
+ Database alias                       = DE_TEPM
+ Database name                        = BTEPM001
+ Node name                            = ADBITRC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 109 entry:
+
+ Database alias                       = EI_BRKR
+ Database name                        = BBRKR001
+ Node name                            = AIMBMBAL
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 110 entry:
+
+ Database alias                       = PR_CECR
+ Database name                        = BCECR001
+ Node name                            = APCACACR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 111 entry:
+
+ Database alias                       = PR_ACSG
+ Database name                        = BACSG001
+ Node name                            = SPUNUNIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 112 entry:
+
+ Database alias                       = PR_TLWR
+ Database name                        = BTLWR001
+ Node name                            = APHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 113 entry:
+
+ Database alias                       = DE_OFPR
+ Database name                        = BOFPR001
+ Node name                            = SDNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 114 entry:
+
+ Database alias                       = DE_ATRP
+ Database name                        = BATRP001
+ Node name                            = ADBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 115 entry:
+
+ Database alias                       = EI_SHIN
+ Database name                        = BSHIN001
+ Node name                            = AI04DSIS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 116 entry:
+
+ Database alias                       = EI_SLAR
+ Database name                        = BSLAR001
+ Node name                            = AIBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 117 entry:
+
+ Database alias                       = EI_DXSC
+ Database name                        = BDXSC001
+ Node name                            = AI04EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 118 entry:
+
+ Database alias                       = DE_TLCT
+ Database name                        = BTLCT001
+ Node name                            = ADBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 119 entry:
+
+ Database alias                       = PR_CCM
+ Database name                        = BCCM001
+ Node name                            = TR05MDIS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 120 entry:
+
+ Database alias                       = PR_ACUE
+ Database name                        = BACUE001
+ Node name                            = SPUNUNIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 121 entry:
+
+ Database alias                       = PR_SFDA
+ Database name                        = BSFDA001
+ Node name                            = APSADSIM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 122 entry:
+
+ Database alias                       = DE_OOIP
+ Database name                        = BOOIP001
+ Node name                            = SDNAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 123 entry:
+
+ Database alias                       = FO_BRKRF
+ Database name                        = BBRKRF01
+ Node name                            = ACMBLMBL
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 124 entry:
+
+ Database alias                       = PR_TEBD
+ Database name                        = BTEBD001
+ Node name                            = SPMQMQAP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 125 entry:
+
+ Database alias                       = DE_ISIS
+ Database name                        = ISISFON2
+ Node name                            = ADBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 126 entry:
+
+ Database alias                       = EI_TLNE
+ Database name                        = BTLNE001
+ Node name                            = AIHANST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 127 entry:
+
+ Database alias                       = QA_IIGV
+ Database name                        = BIIGV001
+ Node name                            = SCNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 128 entry:
+
+ Database alias                       = PR_TLPZ
+ Database name                        = BTLPZ001
+ Node name                            = APBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 129 entry:
+
+ Database alias                       = DE_OOIR
+ Database name                        = BOOIR001
+ Node name                            = SDNAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 130 entry:
+
+ Database alias                       = PR_DXCA
+ Database name                        = BDXCA001
+ Node name                            = APCAEXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 131 entry:
+
+ Database alias                       = DE_NTER
+ Database name                        = BNTER001
+ Node name                            = AD03SGSD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 132 entry:
+
+ Database alias                       = EI_KUHL
+ Database name                        = BKUHL001
+ Node name                            = SINTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 133 entry:
+
+ Database alias                       = EI_TLBR
+ Database name                        = BTLBR001
+ Node name                            = AIHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 134 entry:
+
+ Database alias                       = EI_BRKU
+ Database name                        = BBRKRU01
+ Node name                            = AIMBMBAL
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 135 entry:
+
+ Database alias                       = EI_TLAS
+ Database name                        = BTLAS001
+ Node name                            = AIBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 136 entry:
+
+ Database alias                       = EI_CACB
+ Database name                        = BCACB001
+ Node name                            = AI04CACM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 137 entry:
+
+ Database alias                       = EI_TLFN
+ Database name                        = BTLFN001
+ Node name                            = SINAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 138 entry:
+
+ Database alias                       = EI_TLNEL
+ Database name                        = BTLNEME1
+ Node name                            = AIHALATA
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 139 entry:
+
+ Database alias                       = QA_QPEJ
+ Database name                        = BQPEJ001
+ Node name                            = SCNAARNC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 140 entry:
+
+ Database alias                       = QA_CNPO
+ Database name                        = BCNPO001
+ Node name                            = ACBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 141 entry:
+
+ Database alias                       = DE_TLGR
+ Database name                        = BTLGR001
+ Node name                            = SDNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 142 entry:
+
+ Database alias                       = PR_INV4
+ Database name                        = BINV4001
+ Node name                            = TR05INVT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 143 entry:
+
+ Database alias                       = DE_ORJO
+ Database name                        = BORJO001
+ Node name                            = SDROPRTO
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 144 entry:
+
+ Database alias                       = DE_TLSG
+ Database name                        = BTLSG001
+ Node name                            = ADHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 145 entry:
+
+ Database alias                       = IP_TLBH
+ Database name                        = BTLBH001
+ Node name                            = SIGDTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 146 entry:
+
+ Database alias                       = EI_DXCV
+ Database name                        = BDXCV001
+ Node name                            = AI04EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 147 entry:
+
+ Database alias                       = EI_TLSB
+ Database name                        = BTLSB001
+ Node name                            = AISBTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 148 entry:
+
+ Database alias                       = DE_TLBX
+ Database name                        = BTLBX001
+ Node name                            = ADHAB2B
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 149 entry:
+
+ Database alias                       = PR_SALA
+ Database name                        = BSALA001
+ Node name                            = SPNTNST7
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 150 entry:
+
+ Database alias                       = DE_SMVE
+ Database name                        = BSMVE001
+ Node name                            = ADBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 151 entry:
+
+ Database alias                       = DE_TLFU
+ Database name                        = BTLFU001
+ Node name                            = ADHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 152 entry:
+
+ Database alias                       = DE_CECE
+ Database name                        = BCECE001
+ Node name                            = AD03CACR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 153 entry:
+
+ Database alias                       = QA_SLAR
+ Database name                        = BSLAR001
+ Node name                            = ACBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 154 entry:
+
+ Database alias                       = PR_DXBE
+ Database name                        = BDXBE001
+ Node name                            = APCAEXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 155 entry:
+
+ Database alias                       = IP_TLGE
+ Database name                        = BTLGE001
+ Node name                            = SIGDABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 156 entry:
+
+ Database alias                       = FO_QPEJ
+ Database name                        = BQPEJ001
+ Node name                            = SFNAARNC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 157 entry:
+
+ Database alias                       = AU_IIGV
+ Database name                        = BIIGV001
+ Node name                            = SANTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 158 entry:
+
+ Database alias                       = EI_OOIP
+ Database name                        = BOOIP001
+ Node name                            = SINABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 159 entry:
+
+ Database alias                       = EI_OFPR
+ Database name                        = BOFPR001
+ Node name                            = SINTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 160 entry:
+
+ Database alias                       = EI_TLCT
+ Database name                        = BTLCT001
+ Node name                            = AIBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 161 entry:
+
+ Database alias                       = QA_TLNE
+ Database name                        = BTLNE001
+ Node name                            = ACHANST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 162 entry:
+
+ Database alias                       = PR_TLWW
+ Database name                        = BTLWW001
+ Node name                            = APHAWEBS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 163 entry:
+
+ Database alias                       = PR_GEVA
+ Database name                        = BGEVA001
+ Node name                            = APCAVALR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 164 entry:
+
+ Database alias                       = QA_TLBR
+ Database name                        = BTLBR001
+ Node name                            = ACHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 165 entry:
+
+ Database alias                       = DE_ACMA
+ Database name                        = BACMA001
+ Node name                            = SDUNUNIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 166 entry:
+
+ Database alias                       = DE_TLEX
+ Database name                        = BTLEX001
+ Node name                            = ADBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 167 entry:
+
+ Database alias                       = DE_TLNO
+ Database name                        = BTLNO001
+ Node name                            = ADHANST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 168 entry:
+
+ Database alias                       = EI_ISIS
+ Database name                        = ISISFON2
+ Node name                            = AIBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 169 entry:
+
+ Database alias                       = DE_CQSV
+ Database name                        = BCQSV001
+ Node name                            = SDNTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 170 entry:
+
+ Database alias                       = QA_TLFN
+ Database name                        = BTLFN001
+ Node name                            = SCNAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 171 entry:
+
+ Database alias                       = QA_TLAS
+ Database name                        = BTLAS001
+ Node name                            = ACBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 172 entry:
+
+ Database alias                       = PR_BGEV
+ Database name                        = BBGEV001
+ Node name                            = APDMMBGE
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 173 entry:
+
+ Database alias                       = EI_TLGR
+ Database name                        = BTLGR001
+ Node name                            = SINAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 174 entry:
+
+ Database alias                       = EI_NTER
+ Database name                        = BNTER001
+ Node name                            = AI04SGES
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 175 entry:
+
+ Database alias                       = EI_OOIR
+ Database name                        = BOOIR001
+ Node name                            = SINABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 176 entry:
+
+ Database alias                       = DE_GTG1
+ Database name                        = BGTGI001
+ Node name                            = AD03INS2
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 177 entry:
+
+ Database alias                       = QA_TLSB
+ Database name                        = BTLSB001
+ Node name                            = ACSBTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 178 entry:
+
+ Database alias                       = DE_TLWG
+ Database name                        = BTLWG001
+ Node name                            = ADHAWEBS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 179 entry:
+
+ Database alias                       = PR_IIGM
+ Database name                        = BIIGM001
+ Node name                            = SPNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 180 entry:
+
+ Database alias                       = PR_QPAD
+ Database name                        = BQPAD001
+ Node name                            = AP04QEST
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 181 entry:
+
+ Database alias                       = PR_TLEA
+ Database name                        = BTLEA001
+ Node name                            = APBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 182 entry:
+
+ Database alias                       = DE_CAIG
+ Database name                        = BCAIG001
+ Node name                            = AD03CAIM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 183 entry:
+
+ Database alias                       = DE_GTG2
+ Database name                        = BGTGI002
+ Node name                            = AD03INS2
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 184 entry:
+
+ Database alias                       = EI_TLBX
+ Database name                        = BTLBX001
+ Node name                            = AIHAB2B
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 185 entry:
+
+ Database alias                       = EI_TLSG
+ Database name                        = BTLSG001
+ Node name                            = AIHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 186 entry:
+
+ Database alias                       = EI_ORJO
+ Database name                        = BORJO001
+ Node name                            = SIROPRTO
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 187 entry:
+
+ Database alias                       = DE_DXSP
+ Database name                        = BDXSP001
+ Node name                            = AD03EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 188 entry:
+
+ Database alias                       = PR_CAIG2
+ Database name                        = BCAIG001
+ Node name                            = APCACRMT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 189 entry:
+
+ Database alias                       = QA_OOIP
+ Database name                        = BOOIP001
+ Node name                            = SCNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 190 entry:
+
+ Database alias                       = QA_OFPR
+ Database name                        = BOFPR001
+ Node name                            = SCNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 191 entry:
+
+ Database alias                       = IP_QPEJ
+ Database name                        = BQPEJ001
+ Node name                            = SGNAARNC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 192 entry:
+
+ Database alias                       = EI_SMVE
+ Database name                        = BSMVE001
+ Node name                            = AIBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 193 entry:
+
+ Database alias                       = EI_TLFU
+ Database name                        = BTLFU001
+ Node name                            = AIHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 194 entry:
+
+ Database alias                       = EI_CECE
+ Database name                        = BCECE001
+ Node name                            = AI04CACR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 195 entry:
+
+ Database alias                       = EI_KNTN
+ Database name                        = BKNTN001
+ Node name                            = SINTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 196 entry:
+
+ Database alias                       = DE_CAHI
+ Database name                        = BCAHI001
+ Node name                            = AD03CAHI
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 197 entry:
+
+ Database alias                       = QA_TLCT
+ Database name                        = BTLCT001
+ Node name                            = ACBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 198 entry:
+
+ Database alias                       = PR_DXBI
+ Database name                        = BDXBI001
+ Node name                            = APCAEXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 199 entry:
+
+ Database alias                       = PR_FSIF
+ Database name                        = BFSIF001
+ Node name                            = AP04INS2
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 200 entry:
+
+ Database alias                       = QA_ISIS
+ Database name                        = ISISFON2
+ Node name                            = ACBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 201 entry:
+
+ Database alias                       = DE_SMTM
+ Database name                        = BSMTM001
+ Node name                            = SDNTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 202 entry:
+
+ Database alias                       = DE_TLWJ
+ Database name                        = BTLWJ001
+ Node name                            = ADBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 203 entry:
+
+ Database alias                       = PR_DXCI
+ Database name                        = BDXCI001
+ Node name                            = APCAEXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 204 entry:
+
+ Database alias                       = QA_TLGR
+ Database name                        = BTLGR001
+ Node name                            = SCNAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 205 entry:
+
+ Database alias                       = DE_TLMU
+ Database name                        = BTLMU001
+ Node name                            = ADHATLMU
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 206 entry:
+
+ Database alias                       = EI_CQSV
+ Database name                        = BCQSV001
+ Node name                            = SINTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 207 entry:
+
+ Database alias                       = EI_TLEX
+ Database name                        = BTLEX001
+ Node name                            = AIBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 208 entry:
+
+ Database alias                       = EI_TLNO
+ Database name                        = BTLNO001
+ Node name                            = AIHANST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 209 entry:
+
+ Database alias                       = EI_ACMA
+ Database name                        = BACMA001
+ Node name                            = SIUNUNIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 210 entry:
+
+ Database alias                       = QA_OOIR
+ Database name                        = BOOIR001
+ Node name                            = SCNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 211 entry:
+
+ Database alias                       = DE_BATIC
+ Database name                        = BATIC001
+ Node name                            = SDNAATIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 212 entry:
+
+ Database alias                       = PR_REDO
+ Database name                        = BREDO001
+ Node name                            = APCACARE
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 213 entry:
+
+ Database alias                       = PR_TLBH
+ Database name                        = BTLBH001
+ Node name                            = APSBTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 214 entry:
+
+ Database alias                       = QA_TLSG
+ Database name                        = BTLSG001
+ Node name                            = ACHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 215 entry:
+
+ Database alias                       = DE_TLPS
+ Database name                        = BTLPS001
+ Node name                            = ADBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 216 entry:
+
+ Database alias                       = IP_TLNE
+ Database name                        = BTLNE001
+ Node name                            = SIGDNST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 217 entry:
+
+ Database alias                       = EI_GTG1
+ Database name                        = BGTGI001
+ Node name                            = AI01INS2
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 218 entry:
+
+ Database alias                       = EI_TLWG
+ Database name                        = BTLWG001
+ Node name                            = AIHAWEBS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 219 entry:
+
+ Database alias                       = DE_TLSP
+ Database name                        = BTLSP001
+ Node name                            = ADBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 220 entry:
+
+ Database alias                       = DE_APDC
+ Database name                        = BAPDC001
+ Node name                            = SDNTDEFC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 221 entry:
+
+ Database alias                       = QA_TLBX
+ Database name                        = BTLBX001
+ Node name                            = ACHAB2B
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 222 entry:
+
+ Database alias                       = FO_OOIP
+ Database name                        = BOOIP001
+ Node name                            = SFNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 223 entry:
+
+ Database alias                       = QA_BRKRT
+ Database name                        = BBRKRT01
+ Node name                            = ACMBLMBL
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 224 entry:
+
+ Database alias                       = TS_TEST1
+ Database name                        = BPCRF001
+ Node name                            = APCASGSD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 225 entry:
+
+ Database alias                       = PR_PCRF
+ Database name                        = BPCRF001
+ Node name                            = APCASGSD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 226 entry:
+
+ Database alias                       = QA_SMVE
+ Database name                        = BSMVE001
+ Node name                            = ACBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 227 entry:
+
+ Database alias                       = EI_DXSP
+ Database name                        = BDXSP001
+ Node name                            = AI04EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 228 entry:
+
+ Database alias                       = EI_GTG2
+ Database name                        = BGTGI002
+ Node name                            = AI01INS2
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 229 entry:
+
+ Database alias                       = EI_GIS1
+ Database name                        = BGIS001
+ Node name                            = AI01GIS1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 230 entry:
+
+ Database alias                       = EI_CAIG
+ Database name                        = BCAIG001
+ Node name                            = AI04CAIM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 231 entry:
+
+ Database alias                       = AU_OOIP
+ Database name                        = BOOIP001
+ Node name                            = SANABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 232 entry:
+
+ Database alias                       = AU_OFPR
+ Database name                        = BOFPR001
+ Node name                            = SANTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 233 entry:
+
+ Database alias                       = QA_TLFU
+ Database name                        = BTLFU001
+ Node name                            = ACHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 234 entry:
+
+ Database alias                       = PR_TLGE
+ Database name                        = BTLGE001
+ Node name                            = SPNAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 235 entry:
+
+ Database alias                       = QA_TLBH2
+ Database name                        = BTLBH002
+ Node name                            = ACSBTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 236 entry:
+
+ Database alias                       = FO_OOIR
+ Database name                        = BOOIR001
+ Node name                            = SFNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 237 entry:
+
+ Database alias                       = DE_ATAD
+ Database name                        = BATAD001
+ Node name                            = AD03NACA
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 238 entry:
+
+ Database alias                       = EI_CAHI
+ Database name                        = BCAHI001
+ Node name                            = AI04CAHI
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 239 entry:
+
+ Database alias                       = IP_TLSB
+ Database name                        = BTLSB001
+ Node name                            = SIGDTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 240 entry:
+
+ Database alias                       = DE_IIGA
+ Database name                        = BIIGA001
+ Node name                            = SDNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 241 entry:
+
+ Database alias                       = DE_IIAG
+ Database name                        = BIIAG001
+ Node name                            = SDNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 242 entry:
+
+ Database alias                       = TS_TEST2
+ Database name                        = BDXCN001
+ Node name                            = APCAEXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 243 entry:
+
+ Database alias                       = PR_DXCN
+ Database name                        = BDXCN001
+ Node name                            = APCAEXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 244 entry:
+
+ Database alias                       = QA_TLNO
+ Database name                        = BTLNO001
+ Node name                            = ACHANST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 245 entry:
+
+ Database alias                       = DE_ATAE
+ Database name                        = BATAE001
+ Node name                            = ADBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 246 entry:
+
+ Database alias                       = AU_OOIR
+ Database name                        = BOOIR001
+ Node name                            = SANABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 247 entry:
+
+ Database alias                       = EI_SMTM
+ Database name                        = BSMTM001
+ Node name                            = SINTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 248 entry:
+
+ Database alias                       = EI_TLWJ
+ Database name                        = BTLWJ001
+ Node name                            = AIBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 249 entry:
+
+ Database alias                       = DE_TLPV
+ Database name                        = BTLPV001
+ Node name                            = ADHATLPV
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 250 entry:
+
+ Database alias                       = FO_BRKRT
+ Database name                        = BBRKRT01
+ Node name                            = ACMBLMBL
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 251 entry:
+
+ Database alias                       = DE_KUHL2
+ Database name                        = BKUHL001
+ Node name                            = SDNTSATM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 252 entry:
+
+ Database alias                       = QA_TLWG
+ Database name                        = BTLWG001
+ Node name                            = ACHAWEBS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 253 entry:
+
+ Database alias                       = DE_ATAEL
+ Database name                        = BATAEME1
+ Node name                            = ADLALATA
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 254 entry:
+
+ Database alias                       = EI_TLMU
+ Database name                        = BTLMU001
+ Node name                            = AIHATLMU
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 255 entry:
+
+ Database alias                       = IP_TLCT
+ Database name                        = BTLCT001
+ Node name                            = SIGDBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 256 entry:
+
+ Database alias                       = DE_TLWP
+ Database name                        = BTLWP001
+ Node name                            = ADHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 257 entry:
+
+ Database alias                       = PR_PLANN
+ Database name                        = BPLANNER
+ Node name                            = TR05MDIS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 258 entry:
+
+ Database alias                       = PR_GIS
+ Database name                        = BGIS001
+ Node name                            = AP04GIS1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 259 entry:
+
+ Database alias                       = PR_DXCO
+ Database name                        = BDXCO001
+ Node name                            = APCAEXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 260 entry:
+
+ Database alias                       = PR_KUHF
+ Database name                        = BKUHF001
+ Node name                            = SPNTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 261 entry:
+
+ Database alias                       = DE_CECR
+ Database name                        = BCECR001
+ Node name                            = AD03CACR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 262 entry:
+
+ Database alias                       = EI_TLPS
+ Database name                        = BTLPS001
+ Node name                            = AIBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 263 entry:
+
+ Database alias                       = EI_TLSP
+ Database name                        = BTLSP001
+ Node name                            = AIBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 264 entry:
+
+ Database alias                       = EI_APDC
+ Database name                        = BAPDC001
+ Node name                            = SINTDEFC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 265 entry:
+
+ Database alias                       = PR_IIGV
+ Database name                        = BIIGV001
+ Node name                            = SPNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 266 entry:
+
+ Database alias                       = DE_CGDO
+ Database name                        = BCGDO001
+ Node name                            = SDNAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 267 entry:
+
+ Database alias                       = DE_SFDA
+ Database name                        = BSFDA001
+ Node name                            = AD03DSIM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 268 entry:
+
+ Database alias                       = DE_TLWR
+ Database name                        = BTLWR001
+ Node name                            = ADHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 269 entry:
+
+ Database alias                       = DE_ACUE
+ Database name                        = BACUE001
+ Node name                            = SDUNUNIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 270 entry:
+
+ Database alias                       = DE_ACSG
+ Database name                        = BACSG001
+ Node name                            = SDUNUNIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 271 entry:
+
+ Database alias                       = IP_TLGR
+ Database name                        = BTLGR001
+ Node name                            = SIGDABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 272 entry:
+
+ Database alias                       = PR_CNPO
+ Database name                        = BCNPO001
+ Node name                            = APBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 273 entry:
+
+ Database alias                       = BFSIF001
+ Database name                        = BFSIF001
+ Local database directory             = /DB2/db2info
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Indirect
+ Catalog database partition number    = 0
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 274 entry:
+
+ Database alias                       = EI_IIAG
+ Database name                        = BIIAG001
+ Node name                            = SINTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 275 entry:
+
+ Database alias                       = EI_IIGA
+ Database name                        = BIIGA001
+ Node name                            = SINTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 276 entry:
+
+ Database alias                       = DE_TLPZ
+ Database name                        = BTLPZ001
+ Node name                            = ADBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 277 entry:
+
+ Database alias                       = DE_MD21
+ Database name                        = BMD2001
+ Node name                            = ADBIMDIS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 278 entry:
+
+ Database alias                       = QA_TLWJ
+ Database name                        = BTLWJ001
+ Node name                            = ACBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 279 entry:
+
+ Database alias                       = PR_BRKR
+ Database name                        = BBRKR001
+ Node name                            = APDMMBL
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 280 entry:
+
+ Database alias                       = PR_ESBW
+ Database name                        = BESBW001
+ Node name                            = APDMMBES
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 281 entry:
+
+ Database alias                       = DE_TEBD
+ Database name                        = BTEBD001
+ Node name                            = SDMQMQAP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 282 entry:
+
+ Database alias                       = EI_KUHL2
+ Database name                        = BKUHL001
+ Node name                            = SINTSATM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 283 entry:
+
+ Database alias                       = QA_TLMU
+ Database name                        = BTLMU001
+ Node name                            = ACHATLMU
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 284 entry:
+
+ Database alias                       = EI_ATAE
+ Database name                        = BATAE001
+ Node name                            = AIBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 285 entry:
+
+ Database alias                       = EI_TLPV
+ Database name                        = BTLPV001
+ Node name                            = AIHATLPV
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 286 entry:
+
+ Database alias                       = DE_DXCA
+ Database name                        = BDXCA001
+ Node name                            = AD03EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 287 entry:
+
+ Database alias                       = PR_DXSC
+ Database name                        = BDXSC001
+ Node name                            = APCAEXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 288 entry:
+
+ Database alias                       = PR_SHIN
+ Database name                        = BSHIN001
+ Node name                            = APSADSIS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 289 entry:
+
+ Database alias                       = BGTGI001
+ Database name                        = BGTGI001
+ Local database directory             = /DB2/db2info
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Indirect
+ Catalog database partition number    = 0
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 290 entry:
+
+ Database alias                       = QA_TLPS
+ Database name                        = BTLPS001
+ Node name                            = ACBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 291 entry:
+
+ Database alias                       = DE_SALA
+ Database name                        = BSALA001
+ Node name                            = SDNTNST7
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 292 entry:
+
+ Database alias                       = EI_ATAEL
+ Database name                        = BATAEME1
+ Node name                            = AIHALATA
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 293 entry:
+
+ Database alias                       = EI_TLWP
+ Database name                        = BTLWP001
+ Node name                            = AIHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 294 entry:
+
+ Database alias                       = DE_INV4
+ Database name                        = BINV4001
+ Node name                            = ADBIINVT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 295 entry:
+
+ Database alias                       = QA_TLSP
+ Database name                        = BTLSP001
+ Node name                            = ACBGPORT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 296 entry:
+
+ Database alias                       = PR_TLNE
+ Database name                        = BTLNE001
+ Node name                            = APHANST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 297 entry:
+
+ Database alias                       = PR_KUHL
+ Database name                        = BKUHL001
+ Node name                            = SPNTSMTM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 298 entry:
+
+ Database alias                       = PR_CACB
+ Database name                        = BCACB001
+ Node name                            = APCACACM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 299 entry:
+
+ Database alias                       = PR_TLBR
+ Database name                        = BTLBR001
+ Node name                            = APHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 300 entry:
+
+ Database alias                       = EI_CGDO
+ Database name                        = BCGDO001
+ Node name                            = SINABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 301 entry:
+
+ Database alias                       = EI_CECR
+ Database name                        = BCECR001
+ Node name                            = AI04CACR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 302 entry:
+
+ Database alias                       = IP_TLNO
+ Database name                        = BTLNO001
+ Node name                            = SIGDNST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 303 entry:
+
+ Database alias                       = PR_TLAS
+ Database name                        = BTLAS001
+ Node name                            = APBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 304 entry:
+
+ Database alias                       = PR_TRC
+ Database name                        = BTRC001
+ Node name                            = TR05TRC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 305 entry:
+
+ Database alias                       = PR_TLFN
+ Database name                        = BTLFN001
+ Node name                            = SPNAABAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 306 entry:
+
+ Database alias                       = PR_DXCV
+ Database name                        = BDXCV001
+ Node name                            = APCAEXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 307 entry:
+
+ Database alias                       = PR_TLSB
+ Database name                        = BTLSB001
+ Node name                            = APSBTLSB
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 308 entry:
+
+ Database alias                       = DE_GEVA
+ Database name                        = BGEVA001
+ Node name                            = AD03VALR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 309 entry:
+
+ Database alias                       = EI_ACSG
+ Database name                        = BACSG001
+ Node name                            = SIUNUNIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 310 entry:
+
+ Database alias                       = EI_TLWR
+ Database name                        = BTLWR001
+ Node name                            = AIHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 311 entry:
+
+ Database alias                       = EI_SFDA
+ Database name                        = BSFDA001
+ Node name                            = AI04DSIM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 312 entry:
+
+ Database alias                       = EI_ACUE
+ Database name                        = BACUE001
+ Node name                            = SIUNUNIC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 313 entry:
+
+ Database alias                       = DE_DXBE
+ Database name                        = BDXBE001
+ Node name                            = AD03EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 314 entry:
+
+ Database alias                       = QA_IIGA
+ Database name                        = BIIGA001
+ Node name                            = SCNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 315 entry:
+
+ Database alias                       = QA_IIAG
+ Database name                        = BIIAG001
+ Node name                            = SCNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 316 entry:
+
+ Database alias                       = DE_TLWW
+ Database name                        = BTLWW001
+ Node name                            = ADHAWEBS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 317 entry:
+
+ Database alias                       = QA_TLNE2
+ Database name                        = BTLNE002
+ Node name                            = ACHANST1
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 318 entry:
+
+ Database alias                       = QA_TLPV
+ Database name                        = BTLPV001
+ Node name                            = ACHATLPV
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 319 entry:
+
+ Database alias                       = PR_TEPM
+ Database name                        = BTEPM001
+ Node name                            = TR05TRC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 320 entry:
+
+ Database alias                       = QA_ATAE
+ Database name                        = BATAE001
+ Node name                            = ACBGARSG
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 321 entry:
+
+ Database alias                       = EI_TEBD
+ Database name                        = BTEBD001
+ Node name                            = SIMQMQAP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 322 entry:
+
+ Database alias                       = EI_TLPZ
+ Database name                        = BTLPZ001
+ Node name                            = AIBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 323 entry:
+
+ Database alias                       = DE_CQSV2
+ Database name                        = BCQSV001
+ Node name                            = SDNTSATM
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 324 entry:
+
+ Database alias                       = DE_TLCLA
+ Database name                        = BTLCLAR1
+ Node name                            = ADLALATA
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 325 entry:
+
+ Database alias                       = DE_TLAD
+ Database name                        = BTLAD001
+ Node name                            = ADHAWEBS
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 326 entry:
+
+ Database alias                       = PR_OFPR
+ Database name                        = BOFPR001
+ Node name                            = SPNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 327 entry:
+
+ Database alias                       = EI_DXCA
+ Database name                        = BDXCA001
+ Node name                            = AI04EXTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 328 entry:
+
+ Database alias                       = QA_TLWP
+ Database name                        = BTLWP001
+ Node name                            = ACHAWEBP
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 329 entry:
+
+ Database alias                       = PR_TLCT
+ Database name                        = BTLCT001
+ Node name                            = APBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 330 entry:
+
+ Database alias                       = PR_OOIP
+ Database name                        = BOOIP001
+ Node name                            = SPNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 331 entry:
+
+ Database alias                       = PR_ISIS
+ Database name                        = ISISFON2
+ Node name                            = APBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 332 entry:
+
+ Database alias                       = QA_CGDO
+ Database name                        = BCGDO001
+ Node name                            = SCNABNAC
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 333 entry:
+
+ Database alias                       = DE_IIGM
+ Database name                        = BIIGM001
+ Node name                            = SDNTINTR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 334 entry:
+
+ Database alias                       = DE_TLEA
+ Database name                        = BTLEA001
+ Node name                            = ADBGBAD
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 335 entry:
+
+ Database alias                       = EI_SALA
+ Database name                        = BSALA001
+ Node name                            = SINTNST7
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 336 entry:
+
+ Database alias                       = DE_CAIG2
+ Database name                        = BCAIG001
+ Node name                            = AD03CRMT
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
+Database 337 entry:
+
+ Database alias                       = DE_COBR
+ Database name                        = BCOBR001
+ Node name                            = SDDBCOBR
+ Database release level               = c.00
+ Comment                              =
+ Directory entry type                 = Remote
+ Catalog database partition number    = -1
+ Alternate server hostname            =
+ Alternate server port number         =
+
