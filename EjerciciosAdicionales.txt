@@ -1,0 +1,9 @@
+
+           EJERCICIOS   ADICIONALES :
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+1.- Usa el comando find para encontrar el archivo .bashrc empezando la búsqueda en el /home
+
+2.- Busca en qué directorio está el archivo cal 
+
+3.- 
