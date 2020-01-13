@@ -1,9 +1,36 @@
 
+           WILDCARDS :
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+prueb*.txt
+           prueba1.txt
+           prueba2.txt
+           prueba3s.txt
+           prueba4s.txt
+           pruebaAs.txt
+           pruebaB.txt
+prueba?.txt
+           prueba1.txt
+           prueba2.txt
+           pruebaB.txt
+prueba[1-3]*.txt
+           prueba1.txt
+           prueba2.txt
+           prueba3s.txt
+prueba[1-3].txt
+           prueba1.txt
+           prueba2.txt
+prueba[!1].txt
+           prueba2.txt
+           pruebaB.txt
+
+
+           
+
            EJERCICIOS   ADICIONALES :
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-1.- Usa el comando find para encontrar el archivo .bashrc empezando la búsqueda en el /home
+1.- Usa el comando find para encontrar el archivo .bashrc empezando la bÃºsqueda en el /home
 
-2.- Busca en qué directorio está el archivo cal 
+2.- Busca en quÃ© directorio estÃ¡ el archivo cal 
 
 3.- 
