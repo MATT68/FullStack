@@ -33,4 +33,31 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 2.- Busca en qué directorio está el archivo cal 
 
-3.- 
+3.- Creamos dos nuevos usuarios: oracle y marketing. Ambos con home y con un grupo de igual nombre.
+sudo useradd  -m -U oracle
+sudo useradd  -m -U oracle
+
+4.- Asignamos password a los usuarios:
+sudo passwd oracle
+sudo passwd marketing
+
+5.- Usa el comando echo para ver el valor de las siguientes variables de entorno:
+$HOME
+$HOSTNAME
+$JAVAHOME
+(si está vacía es que no está definida para el usuario)
+
+6.- Configura los usuarios marketing y oracle para que tengan un prompt similar al usuario forma2. Y añade algún alias de tu gusto...
+
+
+
+
+
+
+
+
+
+
+
+
+
