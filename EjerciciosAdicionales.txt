@@ -131,6 +131,12 @@ $JAVAHOME
     Descomprime el archivo y comprueba que tienes todos los ficheros que antes estaban en el directorio aplicacion.
     
     
+8.  Matar procesos que se quedan colgados.
+    Vamos a abrir un "navegador" de ubuntu ('Nautilius')
+    Abrimos además un "word" de ubuntu
+    Suponemos que se han quedado pillados y que tienes que matar ambos procesos....
+    ps -ef  ....
+    kill -9 ....
     
 
 
