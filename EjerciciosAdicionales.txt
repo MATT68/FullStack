@@ -2,6 +2,12 @@ ALIAS:
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 alias lf='ls -lhF --group-directories-first'
 
+El siguiente estaría mal:
+echo 'alias lf='ls -lhF --group-directories-first''
+
+Y este bien:
+echo "alias lf='ls -lhF --group-directories-first'"
+
 
            WILDCARDS :
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
