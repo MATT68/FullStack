@@ -1,3 +1,19 @@
+Instalación de paquetes es ubuntu
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+sudo apt-get update
+[sudo] contraseña para forma2: 
+
+Obj:1 http://es.archive.ubuntu.com/ubuntu bionic InRelease
+Obj:2 http://es.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Obj:3 http://es.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Obj:4 http://es.archive.ubuntu.com/ubuntu bionic-security InRelease
+Leyendo lista de paquetes... Hecho                    
+
+sudo apt-get install paquete-a-instalar
+
+
+
+
 grep
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 Comando para buscar caracteres en un fichero.
