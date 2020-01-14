@@ -101,6 +101,19 @@ $JAVAHOME
 
 6.- Configura los usuarios marketing y oracle para que tengan un prompt similar al usuario forma2. Y añade algún alias de tu gusto...
 
+7.- Parte A.
+    En tu $HOME, crear un directorio llamado aplicacion
+    En el directorio aplicacion crear (touch) los ficheros: file1.txt file2.txt file3.txt filea.txt 
+    En el mismo directorio aplicacion, copiar además el fichero /etc/services y el /etc/hosts.
+    Ahora con el comando tar, empaqueta todo en un archivo llamado paquete.tar (comprimido con gzip)
+    
+    Parte B.
+    Crea un directorio /home/forma2/despliegue
+    Dentro de él debes copiar el archivo tar generado antes.
+    Descomprime el archivo y comprueba que tienes todos los ficheros que antes estaban en el directorio aplicacion.
+    
+    
+    
 
 
 
