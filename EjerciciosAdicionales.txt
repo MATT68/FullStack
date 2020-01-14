@@ -1,3 +1,20 @@
+grep
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Comando para buscar caracteres en un fichero.
+
+grep ejemplo examples.desktop
+
+Pero podemos buscar los caracteres [es] ??
+grep -i '[es]' examples.desktop 
+
+En la salida verás que muestra las líneas con una 'e' o una 's', porque eso implica el uso de los corchetes.
+Por tanto, necesitamos que el comando grep pase de interpretar los corchetes. Lo conseguimos "escapando" los corchetes izquirdo y derecho poniendo la barra '\' delante de cada uno de ellos:
+
+forma2@ubuntu:~$ grep -i '\[es\]' examples.desktop 
+Name[es]=Ejemplos
+Comment[es]=Contenido de ejemplo para Ubuntu
+
+
 ALIAS:
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 alias lf='ls -lhF --group-directories-first'
