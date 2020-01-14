@@ -132,14 +132,28 @@ $JAVAHOME
     
     
 8.  Matar procesos que se quedan colgados.
-    Vamos a abrir un "navegador" de ubuntu ('Nautilius')
+    Vamos a abrir un "navegador" de ubuntu ('Nautilus')
     Abrimos además un "word" de ubuntu
     Suponemos que se han quedado pillados y que tienes que matar ambos procesos....
     ps -ef  ....
     kill -9 ....
     
+forma2@ubuntu:~$ ps -ef | grep office
+forma2    22379   2222  0 17:23 tty2     00:00:00 /usr/lib/libreoffice/program/oosplash --writer
+forma2    22397  22379  4 17:23 tty2     00:00:04 /usr/lib/libreoffice/program/soffice.bin --writer --splash-pipe=5
+forma2    22431  21909  0 17:24 pts/0    00:00:00 grep --color=auto office
+forma2@ubuntu:~$ ps -ef | grep nautilus
+forma2     2418   2049  0 04:14 tty2     00:00:12 nautilus-desktop
+forma2    22362   2020  0 17:22 ?        00:00:01 /usr/bin/nautilus --gapplication-service
+forma2    22437  21909  0 17:25 pts/0    00:00:00 grep --color=auto nautilus
 
+kill -9 22379 22362
 
+9.  Cuenta el número de líneas en el directorio /etc (no lo hagas a dedo)
+    ls /etc  |  wc -l
+    
+    
+    
 
 
 
