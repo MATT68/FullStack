@@ -1,3 +1,21 @@
+Ejercicio 7 (empaquetado de archivos comando tar)
+    Parte A.
+    mkdir /home/forma2/aplicacion
+    cd  aplicacion
+    touch file1.txt file2.txt file3.txt filea.txt 
+    cp /etc/services .
+    cp /etc/hosts    .
+    tar -cvzf  paquete.tar *
+    
+    Parte B.
+    mkdir /home/forma2/despliegue
+    cp /home/forma2/aplicacion/* /home/forma2/despliegue
+    # Podemos comprobar primero el contenido del fichero
+    tar --list f  paquete.tar 
+    # Y luego ya, si nos parece adecuado el contenido, descomprimirlo: 
+    tar -xvzf  paquete.tar 
+    
+    
 Instalación de paquetes es ubuntu
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 sudo apt-get update
