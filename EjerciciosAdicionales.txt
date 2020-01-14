@@ -8,6 +8,15 @@ echo 'alias lf='ls -lhF --group-directories-first''
 Y este bien:
 echo "alias lf='ls -lhF --group-directories-first'"
 
+Y si los quiero agregar al .bashrc   :
+forma2@ubuntu:~$ echo "# *************************************** " >> .bashrc
+forma2@ubuntu:~$ echo "# ****  Alias definidos por mi  *********" >> .bashrc
+forma2@ubuntu:~$ echo "alias lf='ls -lhF --group-directories-first'" >> .bashrc
+
+
+
+
+
 
            WILDCARDS :
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
