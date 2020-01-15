@@ -1,3 +1,30 @@
+SHELL SCRIPTING 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Variables:
+forma2@ubuntu:~$ LINEA1="Laura Ricardo Javier"
+forma2@ubuntu:~$ LINEA2="Pedro Nacho Jesús"
+forma2@ubuntu:~$ echo "Los alumnos de la primera fila son : " $LINEA1 $LINEA2
+
+>>> Los alumnos de la primera fila son :  Laura Ricardo Javier Pedro Nacho Jesús
+
+forma2@ubuntu:~$ echo "Los alumnos de la primera fila son : " $LINEA1 $LINEA2
+>>> Los alumnos de la primera fila son :  Laura Ricardo Javier Pedro Nacho Jesús
+forma2@ubuntu:~$ bash
+forma2@ubuntu:~$ echo "Los alumnos de la primera fila son : " $LINEA1 $LINEA2
+>>> Los alumnos de la primera fila son : 
+forma2@ubuntu:~$ exit
+>>> exit
+forma2@ubuntu:~$ export LINEA1="Laura Ricardo Javier"
+forma2@ubuntu:~$ LINEA2="Pedro Nacho Jesús"
+forma2@ubuntu:~$ echo "Los alumnos de la primera fila son : " $LINEA1 $LINEA2
+>>> Los alumnos de la primera fila son :  Laura Ricardo Javier Pedro Nacho Jesús
+forma2@ubuntu:~$ bash 
+forma2@ubuntu:~$ echo "Los alumnos de la primera fila son : " $LINEA1 $LINEA2
+>>> Los alumnos de la primera fila son :  Laura Ricardo Javier
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 Ejercicio 7 (empaquetado de archivos comando tar)
     Parte A.
     mkdir /home/forma2/aplicacion
