@@ -22,6 +22,19 @@ forma2@ubuntu:~$ bash
 forma2@ubuntu:~$ echo "Los alumnos de la primera fila son : " $LINEA1 $LINEA2
 >>> Los alumnos de la primera fila son :  Laura Ricardo Javier
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Uso de variables en linux, por ejemplo, HOME:
+forma2@ubuntu:~$ echo $HOME
+/home/forma2
+forma2@ubuntu:~$ su - marketing
+Contraseña: 
+$ echo $HOME
+/home/marketing
+$ su - oracle 
+Contraseña: 
+$ echo $HOME
+/home/oracle
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
