@@ -1,0 +1,9 @@
+xxx script1  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#!/bin/bash
+# Este script pide un número y lo muestra si es mayor que 4
+echo " Dame un numero: ";
+read $1;
+a = $1;
+if  a > 4;
+    echo " El valor es: " a;
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
