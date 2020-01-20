@@ -43,6 +43,16 @@ x    Y dentro de ese directorio, creará el fichero recibido como segundo parám
 x    - Debemos validar al principio del script el número de parámetros recibidos y
 x   el script sólo se ejecuta si vienen dos paŕametros.
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#!/bin/bash
+# Este script crea un directorio y dentro de él, un fichero.
+# Debe recibir como parámetros el directorio y el fichero
+if  [ $# -eq 2 ]
+    then 
+       mkdir $HOME/$1
+       touch $HOME/$1/$2
+  else 
+       echo " Debes darme dos parámetros " 
+fi       
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 x    Ejercicio :   creadir2.sh
 x    Este script recibe dos argumentos, el primero será el directorio y 
@@ -53,6 +63,32 @@ x    - Debemos validar al principio del script el número de parámetros recibid
 x   el script sólo se ejecuta si vienen dos paŕametros.
 x   -  Antes de crear un elemento, debemos validar si existe. Y si existe damos un 
 x   aviso sin ejecutar nada.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#!/bin/bash
+# Este script crea un directorio y dentro de él, un fichero.
+# Debe recibir como parámetros el directorio y el fichero
+if  test $# -eq 2
+    then
+        if test ! -d $HOME/$1
+           then 
+                mkdir $HOME/$1
+        else
+           echo "El directorio " $HOME/$1 " ya existe! "
+        fi
+       touch $HOME/$1/$2
+  else 
+       echo " Debes darme dos parámetros " 
+fi       
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x    Ejercicio bucle for :  listar_lineas.sh
+x    Este script recibe un argumento, que será un directorio.
+x    El script recorrerá el directorio  y contará cuántas filas tiene cada fichero
+x   de ese directorio. 
+x    Mostrará una fila con el nombre del fichero  y el número de líneas con este 
+x   formato:
+x       Fichero :      xxxxxxx     Lineas :   nnnnnnn
+x   
+x   - Antes de empezar, debemos validar si existe el directorio.
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
