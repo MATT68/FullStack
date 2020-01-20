@@ -35,3 +35,29 @@ if [ $a -gt 4 ]
        echo " El valor " $a "es igual a   4!  " 
 fi       
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x    Ejercicio :   creadir.sh
+x    Este script recibe dos argumentos, el primero será el directorio y 
+x    el segundo será un fichero.
+x    El script creará el directorio recibido como primer parámetro.
+x    Y dentro de ese directorio, creará el fichero recibido como segundo parámetro.
+x    - Debemos validar al principio del script el número de parámetros recibidos y
+x   el script sólo se ejecuta si vienen dos paŕametros.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x    Ejercicio :   creadir2.sh
+x    Este script recibe dos argumentos, el primero será el directorio y 
+x    el segundo será un fichero.
+x    El script creará el directorio recibido como primer parámetro.
+x    Y dentro de ese directorio, creará el fichero recibido como segundo parámetro.
+x    - Debemos validar al principio del script el número de parámetros recibidos y
+x   el script sólo se ejecuta si vienen dos paŕametros.
+x   -  Antes de crear un elemento, debemos validar si existe. Y si existe damos un 
+x   aviso sin ejecutar nada.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+
+
