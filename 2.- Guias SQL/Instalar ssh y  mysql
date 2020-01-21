@@ -32,4 +32,8 @@ sudo service mysql start
 # Y podemos instalar un cliente sql propio de mysql:
 
 sudo apt-get install mysql-workbench-community
+
+#  To install the shared client libraries:
+
+#  sudo apt-get install libmysqlclient18
  
