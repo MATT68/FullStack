@@ -1,0 +1,35 @@
+# Si no tenemos el ssh-server debemos instalarlo para poder conectar desde putty.exe : 
+  sudo apt-get update
+  sudo apt-get install openssh-server
+
+
+# En google buscamos:  sudo apt-get install mysql-server
+#  nos sale: 
+#  https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/
+# Y en esa página tenemos todas estas indicaciones:
+# 
+# Descargamos de la web de mysql el repositorio:
+
+sudo dpkg -i Descargas/mysql-apt-config_0.8.14-1_all.deb
+
+sudo apt-get update
+
+sudo apt-get install mysql-server
+
+# Una vez instalado podemos comprobar el estado de mysql-server:
+
+sudo service mysql status
+
+# Parar el servidor:
+
+sudo service mysql stop
+
+# O arrancarlo 
+
+sudo service mysql status
+
+
+# Y podemos instalar un cliente sql propio de mysql:
+
+sudo apt-get install mysql-workbench-community
+ 
