@@ -1,0 +1,2 @@
+echo "Numero de parametros : " $#
+
