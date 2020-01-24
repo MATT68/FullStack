@@ -1,27 +1,27 @@
 
 
- 0.- Instalar putty y ejecutar desde ahÌ.
+ 0.- Instalar putty y ejecutar desde ah√≠.
 
  Ubuntu ip: 10.10.30.66
  Cliente ip: 10.10.30.64
 
- 1.- Editar/visualizar el contenido de los ficheros de "configuraciÛn de sesiÛn".  
+ 1.- Editar/visualizar el contenido de los ficheros de "configuraci√≥n de sesi√≥n".  
  
  2.- Configurar el prompt, para que muestre TERMINAL2@usuario.  
 
- 4.- Si tienes un usb vacÌo, probar a montarlo en /home/usuario.
+ 4.- Si tienes un usb vac√≠o, probar a montarlo en /home/usuario.
 
  5.- Crear un par de grupos, admindb2 y adminwas.
 
  6.- Crear dos usuarios en cada uno de los grupos anteriores:
-     admindb2:  db2_1  y db2_2 (el admindb2 ser· su grupo primario)
-     adminwas:  was_1  y was_2 (el adminwas ser· su grupo primario)
+     admindb2:  db2_1  y db2_2 (el admindb2 ser√° su grupo primario)
+     adminwas:  was_1  y was_2 (el adminwas ser√° su grupo primario)
 
- 7.- AÒadir el usuario db2_1 al grupo adminwas.
+ 7.- A√±adir el usuario db2_1 al grupo adminwas.
 
- 8.- AÒadir el usuario was_1 al grupo admindb2.
+ 8.- A√±adir el usuario was_1 al grupo admindb2.
 
- 9.- Comprobar la asignaciÛn de usuarios a los grupos.
+ 9.- Comprobar la asignaci√≥n de usuarios a los grupos.
 
  10.- Crear un directorio /db2 con permisos rwx para los usuarios del grupo admindb2 y 
      sin permisos para others.
@@ -29,13 +29,13 @@
  11.- Crear un directorio /was con permisos rwx para los usuarios del grupo adminwas
      (chown)
  
- 12.- Con el usuario db2_1, en el directorio /db2, crea un directorio /db2/V11.1  y dentro de Èl un fichero db2.txt.
+ 12.- Con el usuario db2_1, en el directorio /db2, crea un directorio /db2/V11.1  y dentro de √©l un fichero db2.txt.
 
  13.- Con el usuario was_1 copia el contenido completo del /db2 a su HOME.
  
  14.- Con el comando chage, modificar la fecha de fin de vigencia de la password.
 
- 15.- Con chage, sobre el usuario was_1 poner maxage 30 dÌas, 5 para el aviso y 7 para 
+ 15.- Con chage, sobre el usuario was_1 poner maxage 30 d√≠as, 5 para el aviso y 7 para 
       dejar el usuario inactivo.
 
 XXXXXXX    Comandos de transferencia de archivos y archivado XXXXXXXXXXXXXXXXX
@@ -45,37 +45,37 @@ XXXXXXX    Comandos de transferencia de archivos y archivado XXXXXXXXXXXXXXXXX
 
  17.- Debes procesar esos ficheros para obtener una fichero con la lista exclusiva de bbdd y nodos respectivamente.
 
- Para los siguientes ejercicios es necesario que puedas conectarte a la m·quina de otros
- compaÒeros. Si no es asÌ, dÌselo al instructor.
+ Para los siguientes ejercicios es necesario que puedas conectarte a la m√°quina de otros
+ compa√±eros. Si no es as√≠, d√≠selo al instructor.
 
- 18.- Define en tu m·quina un usuario que se llame forma2, con la password forma2.
+ 18.- Define en tu m√°quina un usuario que se llame forma2, con la password forma2.
 
  19.- Logeate con el usuario forma2. Crea el directorio /home/forma2/transfer.
-  Dentro de Èl, crea tres ficheros: tu_nombre.txt apellido1.txt apellido2.txt
+  Dentro de √©l, crea tres ficheros: tu_nombre.txt apellido1.txt apellido2.txt
  
- 20.- ConÈctate a la m·quina del instructor con el usuario db2_1, y crea el directorio /db2/tu_nombre 
+ 20.- Con√©ctate a la m√°quina del instructor con el usuario db2_1, y crea el directorio /db2/tu_nombre 
 
 (Comando scp)  
- 21.- Dejar en la m·quina del instructor, en el directorio que has creado antes, los archivos lista_bbdd.txt y lista_nodos.txt que tienes en tu m·quina. Para ello usar el comando scp. 
+ 21.- Dejar en la m√°quina del instructor, en el directorio que has creado antes, los archivos lista_bbdd.txt y lista_nodos.txt que tienes en tu m√°quina. Para ello usar el comando scp. 
 
- 22.-  Ahora puedes conectarte a la m·quina de otro compaÒero, que ya haya creado el usuario forma2 -que t˙ tambiÈn has creado antes en tu propia m·quina-. Comprueba si ya 
-est· creado el directorio /home/forma2/sincro, y si no lo est·, lo creas.
+ 22.-  Ahora puedes conectarte a la m√°quina de otro compa√±ero, que ya haya creado el usuario forma2 -que t√∫ tambi√©n has creado antes en tu propia m√°quina-. Comprueba si ya 
+est√° creado el directorio /home/forma2/sincro, y si no lo est√°, lo creas.
 
 (Comando rsync)
- 23.-  A continuaciÛn, con el comando rsync envÌa todo el contenido de tu directorio 
- /home/forma2/transfer al /home/forma2/sincro de tu compaÒero.
+ 23.-  A continuaci√≥n, con el comando rsync env√≠a todo el contenido de tu directorio 
+ /home/forma2/transfer al /home/forma2/sincro de tu compa√±ero.
  
  24.- Ahora puedes repetir el ejercicio de copia con scp anterior, pero como un archivado previo -vamos a imaginar que los archivos que tienes ocupan cientos de megas-:
  - Crea un tar comprimido con todo el contenido de tu directorio /home/forma2/transfer
- - copia con scp el fichero *.tar.gz al directorio /home/forma2/sincro de tu compaÒero
+ - copia con scp el fichero *.tar.gz al directorio /home/forma2/sincro de tu compa√±ero
 
 xxxxxxxxxxxxxxxx  Controlando procesos xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
  25.- Comprueba los procesos que tienes funcionando en tu servidor.
 
- 26.- Busca el proceso del compaÒero que est· conect·ndose a tu m·quina.
+ 26.- Busca el proceso del compa√±ero que est√° conect√°ndose a tu m√°quina.
 
- 27.- Intenta terminarlo "de forma pacÌfica".
+ 27.- Intenta terminarlo "de forma pac√≠fica".
  
 xxxxxxxxxxxxxxxx  Un poco de comandos para la shell xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
@@ -92,21 +92,21 @@ los servicios que tenemos en el fichero /etc/services.
 	echo " Muestro la variable: $i "
      done
 
- 31.- Tenemos que replicar la misma casuÌstica de grupos y usuarios en otra m·quinas.
-     AsÌ que queremos preparar dos ficheros con la lista de todos los grupos y usuarios
+ 31.- Tenemos que replicar la misma casu√≠stica de grupos y usuarios en otra m√°quinas.
+     As√≠ que queremos preparar dos ficheros con la lista de todos los grupos y usuarios
      de este servidor.
 
- 32.- Ahora serÌa f·cil, a partir de esos fichero construir un script para crear los
+ 32.- Ahora ser√≠a f√°cil, a partir de esos fichero construir un script para crear los
      grupos y los usuarios. Vamos a hacerlo.
 
- (33.- No intentar hacer, sÛlo para frikies)
-     Listar los n˙meros de puerto tcpip que aparecen en el /etc/services
+ (33.- No intentar hacer, s√≥lo para frikies)
+     Listar los n√∫meros de puerto tcpip que aparecen en el /etc/services
      (Debemos usar el comando awk como filtro.... pero no lo conocemos aun)
 
  34.- Crear un script sencillo para comprobar si en un directorio existe el fichero
      fichero1.txt. Si no existe, debe crearlo.
 
- 35.- Crear un script que acepte dos par·metros, uno es el directorio y otro el      nombre del fichero.
+ 35.- Crear un script que acepte dos par√°metros, uno es el directorio y otro el      nombre del fichero.
      Comprobar si el directorio existe. Y si no existe dar un error.
      Si existe, crear el fichero en el directorio.
 
