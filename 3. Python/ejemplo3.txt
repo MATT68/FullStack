@@ -1,0 +1,5 @@
+1 Linea escrita desde el programa.
+2 Linea escrita desde el programa.
+3 Linea escrita desde el programa.
+4 Linea escrita desde el programa.
+1 Linea escrita desde el programa.2 Linea escrita desde el programa.	3 Linea escrita desde el programa.4 Linea escrita desde el programa.	
